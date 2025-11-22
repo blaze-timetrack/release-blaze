@@ -1,0 +1,11 @@
+{
+  "version": "0.3.4",
+  "notes": "Trial to update",
+  "pub_date": "2025-11-16T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcGxQdk9KSUNwTmJUUzFXUldoVW5ZeHppaU0ycUNJYnNTcVBuRFgzRVF2M0RyclM2SlhOcUQ0RWFjT1RqbHI5RVVXRWthaC9VaENsUVRZcktmQWx0Z1VBU2VwM0M2MEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzMzAyMzgwCWZpbGU6QmxhemVfMC4zLjRfeDY0LXNldHVwLmV4ZQpQYzVYS2I2a3RCRXltQWhTSmhDRmcrNE95KzMvL09HamlPeEdBalJwZ1hadVhPcWRoOU1SK1hkYW55MTFGWHBXNm5qZE5zWGk3eEJSZWtmQU9qZmZCZz09Cg==",
+      "url": "https://github.com/blaze-timetrack/blaze-tauri/releases/download/v0.3.4/Blaze_0.3.4_x64-setup.exe"
+    }
+  }
+}
